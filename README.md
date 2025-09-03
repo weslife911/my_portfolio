@@ -11,7 +11,7 @@ Welcome to my portfolio! I am a passionate software developer specializing in fu
 **Email:** mfonfuwesley@gmail.com
 **LinkedIn:** https://www.linkedin.com/in/mfonfu-wesley-bikoma-93674a337?trk=contact-info
 **GitHub:** https://github.com/weslife911
-**Portfolio:** [https://yourportfolio.com](https://yourportfolio.com)
+**Portfolio:** https://mfonfu-wesley.netlify.app
 
 I enjoy solving complex problems and creating efficient, maintainable code. My focus is on delivering high-quality software solutions that provide real value to users.
 
@@ -82,7 +82,7 @@ I am always open to discussing new projects, collaborations, or job opportunitie
 - **Email:** mfonfuwesley@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/mfonfu-wesley-bikoma-93674a337?trk=contact-info
 - **GitHub:** https://github.com/weslife911
-- **Portfolio:** [https://yourportfolio.com](https://yourportfolio.com)
+- **Portfolio:** https://mfonfu-wesley.netlify.app/
 
 ---
 
