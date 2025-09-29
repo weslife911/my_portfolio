@@ -1,6 +1,6 @@
 # Portfolio of Mfonfu Wesley Bikoma
 
-Welcome to my portfolio! I am a passionate software developer specializing in full-stack web development with expertise in Django and the MERN stack. This repository showcases some of my key projects that demonstrate my skills in building scalable, real-time, and user-friendly web applications.
+Welcome to my portfolio! I am a passionate software developer specializing in full-stack mobile and web development with expertise in Django, Laravel and the MERN stack for web development and Flutter and React Native for android development. This repository showcases some of my key projects that demonstrate my skills in building scalable, real-time, and user-friendly web and mobile applications.
 
 ---
 
@@ -53,7 +53,8 @@ Chatty is a real-time chat application built using the MERN stack (MongoDB, Expr
 - React.js
 - Node.js
 - Socket.io
-- CSS Modules
+- Tailwind CSS
+- Dasiy UI
 
 ---
 
@@ -71,7 +72,7 @@ JobNest is a job portal platform developed with Django that connects employers w
 - Django (Python)
 - SQLite / PostgreSQL
 - HTML, CSS, JavaScript
-- Bootstrap
+- Tailwind CSS
 
 ---
 
