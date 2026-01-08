@@ -9,7 +9,7 @@ Welcome to my portfolio! I am a passionate software developer specializing in fu
 **Name:** Mfonfu Wesley Bikoma
 **Location:** Bamenda, Cameroon
 **Email:** mfonfuwesley@gmail.com
-**LinkedIn:** https://www.linkedin.com/in/mfonfu-wesley-bikoma-93674a337?trk=contact-info
+**LinkedIn:** https://www.linkedin.com/in/wesley-mfonfu-36baa6392
 **GitHub:** https://github.com/weslife911
 **Portfolio:** https://mfonfu-wesley.netlify.app
 
